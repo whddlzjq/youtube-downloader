@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-# K-Tube Downloader (한국어 유튜브 다운로더) 🇰🇷
+# YouTube Downloader (한국어 유튜브 다운로더) 🇰🇷
 
-[Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)의 철학을 계승한, 한국 사용자를 위한 심플하고 강력한 유튜브 다운로더입니다.
+
 
 ## 🌟 주요 특징
 - **완벽한 한국어 지원**: 직관적인 GUI 인터페이스가 모두 한국어로 구성되어 있습니다.
