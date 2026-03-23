@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # K-Tube Downloader (한국어 유튜브 다운로더) 🇰🇷
 
 [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)의 철학을 계승한, 한국 사용자를 위한 심플하고 강력한 유튜브 다운로더입니다.
@@ -39,3 +40,6 @@ python main.py
 
 ---
 **GitHub Repository**: [https://github.com/whddlzjq/youtube-downloader](https://github.com/whddlzjq/youtube-downloader)
+=======
+# youtube-downloader
+>>>>>>> cd252332baa23f9683f12389216c95b8f774d90d
